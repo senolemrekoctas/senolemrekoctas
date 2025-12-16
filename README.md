@@ -7,7 +7,7 @@ I enjoy building systems that process data, create insights, and scale reliably.
 I love exploring the AI ecosystem, designing backend architectures, and experimenting with cloud-native monitoring stacks.
 
 <p align="center">
-  <img src="ptxj5h32onre1.gif" alt="Demo GIF" width="750" />
+  <img src="ptxj5h32onre1.gif" alt="Demo GIF" width="300" />
 </p>
 
 
